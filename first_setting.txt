@@ -1,0 +1,4 @@
+git init
+git remote -v : origin 설정여부 확인
+git remote add origin https://github.com/HANARAE/git_practice.git     (shift + insert : 복사)
+git pull origin mastser : 푸쉬된 내용 다운 (커밋내용까지 다 받을 수 있음)
